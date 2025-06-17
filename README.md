@@ -23,8 +23,8 @@ Hey, I’m a passionate coder and exploit developer who thrives on pushing the b
 
 ## 🛠️ Public Projects im working on
 
-[![Impulse Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cyqZM2xVvk)
-[![AbuseX Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/z8fxkenC4P)
+[![Impulse Discord](https://discord.gg/cyqZM2xVvk)]
+[![AbuseX Discord](https://discord.gg/z8fxkenC4P)]
 
 ---
 
