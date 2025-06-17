@@ -10,6 +10,7 @@ Hey, I’m a passionate coder and exploit developer who thrives on pushing the b
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
