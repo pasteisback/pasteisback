@@ -11,10 +11,7 @@ Hey, I’m a passionate coder and exploit developer who thrives on pushing the b
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
