@@ -1,20 +1,3 @@
-## 💫 About Me
-
-Hey, I’m a passionate coder and exploit developer who thrives on pushing the boundaries of software. I specialize in reverse engineering, memory manipulation, and creating high-performance tools for Roblox and beyond. From Lua and C++ internals to C# UI/logic and Python automation, I love building sleek, undetected, and powerful exploits with smooth UIs and solid backend logic. Whether it's designing injectors, working on loaders, or improving stealth systems, I'm always learning and evolving.
-
-![My discord](https://discord.com/users/1144048526691680267)
-
----
-
-## 📜 Known Coding Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasteisback&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
