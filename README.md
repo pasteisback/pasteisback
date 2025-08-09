@@ -12,4 +12,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kitodoescode/kitodoescode/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pasteisback/pasteisback/output/snake.svg" alt="Snake animation" />
